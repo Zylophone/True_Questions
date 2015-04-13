@@ -16,7 +16,7 @@ public class Question {
 	 */
 
 	/*
-	 * 未搞清楚题的内容, someone is guessing this one below:
 	 * http://math.stackexchange.com/questions/389140/odds-of-choosing-items-out-of-a-bag
+	 * 
 	 */
 }

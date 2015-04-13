@@ -13,6 +13,7 @@ public class Question {
 	/**
 	 * http://articles.leetcode.com/2011/01/sliding-window-maximum.html
 	 * http://www.mitbbs.com/article_t/JobHunting/32918239.html
+	 * http://www.mitbbs.com/article_t/JobHunting/32932495.html
 	 */
 	
 	//discuss with Zhe

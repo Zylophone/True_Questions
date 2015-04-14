@@ -62,5 +62,5 @@ class AvgStream {
 			return sum / queue.size(); //【注】return sum / capacity 错误！
 		}
 	}
-	
+	//test christina
 }

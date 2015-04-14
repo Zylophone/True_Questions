@@ -22,7 +22,7 @@ public class Question {
 		System.out.println(as.getAvg());
 		as.add(9);
 		System.out.println(as.getAvg());
-		
+		//merge test christina
 	}
 	
 	/**
